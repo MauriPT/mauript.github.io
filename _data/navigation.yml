@@ -2,11 +2,11 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
-    
+
   - title: "CV"
-  #  url: /cv/
-    url: "files/CV_JMC.pdf"
-    
+    #  url: /cv/
+    url: "/files/CV_JMC.pdf"
+
   - title: "Guide"
     url: /markdown/
 
@@ -17,7 +17,7 @@ main:
   #  url: /publications/
 
   #- title: "Talks"
-  #  url: /talks/    
+  #  url: /talks/
 
   #- title: "Teaching"
-  #  url: /teaching/ 
+  #  url: /teaching/
