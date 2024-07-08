@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar: "profile_photo.jpeg"
   name: "José Maurício de Carvalho"
-  pronouns: # example: "she/her"
+  pronouns: "he/him"
   bio: "Short biography for the left-hand sidebar"
   location: "Lisbon, Portugal"
   employer: "NTT Data"
@@ -48,7 +48,7 @@ author:
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  bluesky: #"bsky.app" # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
@@ -57,7 +57,7 @@ author:
   keybase: # Username
   instagram: josemauri_
   lastfm: # Username
-  linkedin: # Username
+  linkedin: jose-mauricio-de-carvalho-32360510a
   mastodon: # URL
   medium: # URL
   pinterest: # Username
